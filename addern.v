@@ -1,3 +1,5 @@
+// [1] Stephen Brown, Zvonko Vranesic, Fundamentals of Digital Logic, McGraw-Hill, New York, 2nd edition, 2008.
+
 module addern(carryin, X, Y, S, carryout);
 
   parameter n = 64;
